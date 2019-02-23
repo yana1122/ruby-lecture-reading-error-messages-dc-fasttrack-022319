@@ -1,3 +1,4 @@
-42 / 6
+number = 42 / 6
+puts number
 
-42 / 0
+
